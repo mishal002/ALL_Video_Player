@@ -10,7 +10,6 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-
         <com.google.android.material.button.MaterialButton
             android:id="@+id/audioTrack"
             style="@style/Widget.AppCompat.Button.Borderless"
